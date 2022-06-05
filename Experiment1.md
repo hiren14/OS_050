@@ -257,14 +257,14 @@ Description:- Displays the text of the file line by line.
 <br />
 
 
-![p1a](https://hiren14.github.io/OS_050/output/exp1/f/1.png)
+![p1a](https://hiren14.github.io/OS_050/output/exp1/f/1.jpeg)
 
 <br />
 <hr />
 
 # 2.	head
 Description:- Displays the first n lines of the specified text files. If the number of lines is not specified then by default prints first 10 lines. 
-![p1a](https://hiren14.github.io/OS_050/output/exp1/f/2.png)
+![p1a](https://hiren14.github.io/OS_050/output/exp1/f/2.jpeg)
 
 <br />
 <hr />
@@ -272,7 +272,7 @@ Description:- Displays the first n lines of the specified text files. If the num
 # 3.	tail
 Description:- It works the same way as head, just in reverse order. The only difference in tail is, it returns the lines from bottom to up.
 
-![p1a](https://hiren14.github.io/OS_050/output/exp1/f/3.png)
+![p1a](https://hiren14.github.io/OS_050/output/exp1/f/3.jpeg)
 
 <br />
 <hr />
@@ -280,7 +280,7 @@ Description:- It works the same way as head, just in reverse order. The only dif
 # 4.	sort
 Description:- Sorts the lines alphabetically by default but there are many options available to modify the sorting mechanism.
 
-![p1a](https://hiren14.github.io/OS_050/output/exp1/f/4.png)
+![p1a](https://hiren14.github.io/OS_050/output/exp1/f/4.jpeg)
 
 <br />
 <hr />
@@ -288,7 +288,7 @@ Description:- Sorts the lines alphabetically by default but there are many optio
 # 5.	uniq
 Description:- Removes duplicate lines. uniq has a limitation that it can only remove continuous duplicate lines(although this can be fixed by the use of piping).
 
-![p1a](https://hiren14.github.io/OS_050/output/exp1/f/5.png)
+![p1a](https://hiren14.github.io/OS_050/output/exp1/f/5.jpeg)
 
 <br />
 <hr />
@@ -299,7 +299,7 @@ Description:- wc command gives the number of lines, words and characters in the 
 
 
 
-![p1a](https://hiren14.github.io/OS_050/output/exp1/f/6.png)
+![p1a](https://hiren14.github.io/OS_050/output/exp1/f/6.jpeg)
 
 <br />
 <hr /> 
@@ -307,7 +307,7 @@ Description:- wc command gives the number of lines, words and characters in the 
 #   7.	grep
 Description:- grep is used to search a particular information from a text file.
 
-![p1a](https://hiren14.github.io/OS_050/output/exp1/f/7.png)
+![p1a](https://hiren14.github.io/OS_050/output/exp1/f/7.jpeg)
 
 <br />
 <hr /> 
@@ -315,7 +315,7 @@ Description:- grep is used to search a particular information from a text file.
 #   8.	tac
 Description:- tac is just the reverse of cat and it works the same way, i.e., instead of printing from lines 1 through n, it prints lines n through 1. It is just reverse of cat command.
 
-![p1a](https://hiren14.github.io/OS_050/output/exp1/f/7.png)
+![p1a](https://hiren14.github.io/OS_050/output/exp1/f/7.jpeg)
 
 <br />
 <hr />
@@ -323,7 +323,7 @@ Description:- tac is just the reverse of cat and it works the same way, i.e., in
 #   9.	sed
 Description:- sed stands for stream editor. It allows us to apply search and replace operation on our data effectively. sed is quite an advanced filter and all its options can be seen on its man page. 
 
-![p1a](https://hiren14.github.io/OS_050/output/exp1/f/9.png)
+![p1a](https://hiren14.github.io/OS_050/output/exp1/f/9.jpeg)
 
 <br />
 <hr /> 
@@ -331,7 +331,7 @@ Description:- sed stands for stream editor. It allows us to apply search and rep
 #   10.	nl
 Description:-  nl is used to number the lines of our text data. 
 
-![p1a](https://hiren14.github.io/OS_050/output/exp1/f/10.png)
+![p1a](https://hiren14.github.io/OS_050/output/exp1/f/10.jpeg)
 
 <br />
 <hr />
