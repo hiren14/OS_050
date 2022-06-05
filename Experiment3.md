@@ -1,4 +1,4 @@
-<h1 align="center" style="margin-top: 0px;"> Experiment 2 </h1> 
+<h1 align="center" style="margin-top: 0px;"> Experiment 3 </h1> 
 
 # Aim:-  Write a shell script to display multiplication table of given number.
 ## code :- 

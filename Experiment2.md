@@ -1,4 +1,4 @@
-<h1 align="center" style="margin-top: 0px;"> Experiment 1  </h1> 
+<h1 align="center" style="margin-top: 0px;"> Experiment 2  </h1> 
 
 # Aim:-  Write a shell script to generate marksheet of a student. Take 3 subjects, calculate and display total marks, percentage and Class obtained by the student.
 
