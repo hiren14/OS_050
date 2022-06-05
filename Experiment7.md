@@ -7,6 +7,7 @@
 -   c. Display usernames those are currently logged in the system
 -   d. Display your name at given x, y
 # code :- 
+
 ```bash
 
 i=0

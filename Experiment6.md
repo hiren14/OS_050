@@ -1,10 +1,13 @@
 <h1 align="center" style="margin-top: 0px;"> Experiment 6 </h1> 
 
 # Aim:-   Write a shell script which will generate first n fibonnacci numbers like: 1, 1, 2, 3, 5, 13, …
+<br />
+
+#       code :- 
 
 ```bash
 
-#code :- 
+
 #!/bin/sh
 
 echo "enter how many number you want in series"

@@ -113,7 +113,11 @@ Syntax
 
 ```bash
 	grep [options] pattern [path]
-	```
+	
+```
+
+
+
 <br />
 	
 #   Output:-
